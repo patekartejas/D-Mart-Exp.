@@ -1,0 +1,19 @@
+{
+  "name": "D-Mart Expense Book",
+  "short_name": "D-Mart Book",
+  "description": "Track D-Mart purchases, item prices, and barcode matches.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f7f3",
+  "theme_color": "#1b6b45",
+  "icons": [
+    {
+      "src": "./dmart-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
